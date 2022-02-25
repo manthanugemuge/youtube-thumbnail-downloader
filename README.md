@@ -12,7 +12,9 @@
 
 
 - Download or clone the repository Website :
+```
  https://github.com/ManthanUgemuge/YoutubeThumbnailDownloader.git 
+```
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
