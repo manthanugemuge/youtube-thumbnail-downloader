@@ -1,4 +1,4 @@
-# Youtube TDownloader
+# Youtube Thumbnail Downloader
 A Simple Aplication to download Youtube thumnbnail from any link of specific Video provided.
 
 ## Tech Stacks Used
