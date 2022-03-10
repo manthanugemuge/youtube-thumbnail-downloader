@@ -16,7 +16,7 @@ A Simple Aplication to download Youtube thumnbnail from any link of specific Vid
 ```
  https://github.com/ManthanUgemuge/YoutubeThumbnailDownloader.git 
 ```
-- Run - [YTDownloader](https://manthanugemuge.github.io/YoutubeThumbnailDownloader/)
+- Run - [YTDownloader]()
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
