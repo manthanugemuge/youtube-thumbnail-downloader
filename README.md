@@ -2,7 +2,7 @@
 A Simple Application to download Youtube thumnbnail from any link of specific Video provided.
 
 ## About Project
-
+It is made with Help of JQuery,
 
 ## Tech Stacks Used
 
