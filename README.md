@@ -16,7 +16,7 @@ It is made with Help of JQuery, HTML, CSS
 ```
  https://github.com/ManthanUgemuge/YoutubeThumbnailDownloader.git 
 ```
-- Run - [YTDownloader](https://manthanugemuge.github.io/YoutubeThumbnailDownloader/)
+- Run - [Live](https://manthanugemuge.github.io/YoutubeThumbnailDownloader/)//[Download]()
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
