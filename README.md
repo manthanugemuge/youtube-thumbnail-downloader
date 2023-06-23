@@ -16,7 +16,7 @@ It is made with Help of JQuery, HTML, CSS
 ```
  https://github.com/manthanugemuge/youtube-thumbnail-downloader.git 
 ```
-- Run - [Live](https://manthanugemuge.github.io/YoutubeThumbnailDownloader/)
+- Run - [Live](https://manthanugemuge.github.io/youtube-thumbnail-downloader/)
 //[Download](https://github.com/ManthanUgemuge/YoutubeThumbnailDownloader/archive/refs/heads/main.zip)
 
 ## Contributing
